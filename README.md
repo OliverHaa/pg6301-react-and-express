@@ -1,2 +1,2 @@
 # pg6301-react-and-express
-[![Run test](https://github.com/OliverHaa/pg6301-react-and-express/actions/workflows/test.yml/badge.svg)](https://github.com/OliverHaa/pg6301-react-and-express/actions/workflows/test.yml)
+[![Run test](https://github.com/OliverHaa/pg6301-react-and-express/actions/workflows/test.yml/badge.svg)](https://github.com/OliverHaa/pg6301-react-and-express/actions/workflows/test.yml) [![Coverage Status](https://coveralls.io/repos/github/OliverHaa/pg6301-react-and-express/badge.svg?branch=master)](https://coveralls.io/github/OliverHaa/pg6301-react-and-express?branch=master)
