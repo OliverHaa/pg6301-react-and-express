@@ -27,6 +27,7 @@
     "@babel/preset-env": "^7.16.8",
     "@babel/preset-react": "^7.16.7",
     "babel-jest": "^27.4.6",
+    "eslint": "^8.14.0",
     "jest": "^27.4.7",
     "parcel": "^2.2.0",
     "pretty": "^2.0.0"
