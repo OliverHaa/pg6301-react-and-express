@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kristiania-pg6301-2022/pg6301-react-and-express-lectures.git"
+    "url": "git+ https://github.com/OliverHaa/pg6301-react-and-express"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kristiania-pg6301-2022/pg6301-react-and-express-lectures/issues"
+    "url": "https://github.com/OliverHaa/pg6301-react-and-express/issues"
   },
-  "homepage": "https://github.com/kristiania-pg6301-2022/pg6301-react-and-express-lectures#readme",
+  "homepage": "https://github.com/OliverHaa/pg6301-react-and-express#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.16.8",
     "@babel/preset-react": "^7.16.7",
